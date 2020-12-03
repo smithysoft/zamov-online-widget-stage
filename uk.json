@@ -1,15 +1,7 @@
 {
-  "BOOK ONLINE": "ЗАМОВИТИ ОНЛАЙН",
-  "BOOKING": "ЗМОВЛЕННЯ",
-  "Book Now": "Замовити Зараз",
-  "Booking Successful": "Бронювання Успішне",
-  "CHOOSE DATE & TIME": "ВИБЕРІТЬ ДАТУ І ЧАС",
-  "CHOOSE STAFF": "ВИБЕРІТЬ ПЕРСОНАЛ",
-  "Choose New Booking": "Виберіть Нове Замовлення",
-  "Choose Time": "Виберіть Час",
   "Customer": "Клієнт",
   "Email": "Електронна Пошта",
-  "Name": "Ім'я",
+  "Name": "Ім`я",
   "Next": "Далі",
   "Please Choose Day": "Виберіть день",
   "Please choose another time or date": "Виберіть інший час або дату",
@@ -21,5 +13,13 @@
   "UAH": "ГРН",
   "YOUR CART": "ВАШЕ ЗАМОВЛЕННЯ",
   "Your Details": "Ваші Дані",
-  "min": "хв"
+  "min": "хв",
+  "BOOK ONLINE": "ЗАМОВИТИ ОНЛАЙН",
+  "BOOKING": "ЗМОВЛЕННЯ",
+  "Book Now": "Замовити Зараз",
+  "Booking Successful": "Бронювання Успішне",
+  "CHOOSE DATE & TIME": "ВИБЕРІТЬ ДАТУ І ЧАС",
+  "CHOOSE STAFF": "ВИБЕРІТЬ ПЕРСОНАЛ",
+  "Choose New Booking": "Виберіть Нове Замовлення",
+  "Choose Time": "Виберіть Час"
 }

@@ -1,14 +1,4 @@
 {
-  "BOOK ONLINE": "BOOK ONLINE",
-  "BOOKING": "BOOKING",
-  "Book Now": "Book Now",
-  "Booking Successful": "Booking Successful",
-  "CHOOSE DATE & TIME": "CHOOSE DATE & TIME",
-  "CHOOSE STAFF": "CHOOSE STAFF",
-  "Choose New Booking": "Choose New Booking",
-  "Choose Time": "Choose Time",
-  "Customer": "Customer",
-  "Email": "Email",
   "Name": "Name",
   "Next": "Next",
   "Please Choose Day": "Please Choose Day",
@@ -21,5 +11,15 @@
   "UAH": "UAH",
   "YOUR CART": "YOUR CART",
   "Your Details": "Your Details",
-  "min": "min"
+  "min": "min",
+  "BOOK ONLINE": "BOOK ONLINE",
+  "BOOKING": "BOOKING",
+  "Book Now": "Book Now",
+  "Booking Successful": "Booking Successful",
+  "CHOOSE DATE & TIME": "CHOOSE DATE & TIME",
+  "CHOOSE STAFF": "CHOOSE STAFF",
+  "Choose New Booking": "Choose New Booking",
+  "Choose Time": "Choose Time",
+  "Customer": "Customer",
+  "Email": "Email"
 }
